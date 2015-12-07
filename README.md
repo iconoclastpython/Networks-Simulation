@@ -5,4 +5,4 @@ This work of TCP/IP networks simulation implements three layers of network in a 
 
 2. Transport Layer: Reliable Transport Protocol with GBN/SR Protocol;
 
-3. Network Layer: Routing Algorithm.\n
+3. Network Layer: Routing Algorithm.
